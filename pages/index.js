@@ -4,8 +4,8 @@ import { Wind, Image as ImageIcon, Zap, CheckCircle, Link as LinkIcon } from 'lu
 import { BrowserProvider, Contract } from 'ethers';
 
 // Add your Pinata API credentials here
-const PINATA_API_KEY = "50fd66d6dc487e96d7e0";
-const PINATA_SECRET_API_KEY = "75a8c57ba4826c34e2d4fa4274c55c9db8bd2e98ae189acd9e65e295b8ad8ba7";
+const PINATA_API_KEY = "xxxxxxxxxxxx";
+const PINATA_SECRET_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxx";
 
 import Header from '../components/Header';
 import ImageUploader from '../components/ImageUploader';
